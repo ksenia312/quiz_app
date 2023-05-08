@@ -1,6 +1,7 @@
 {
     "name": "my_great_app",
     "short_name": "my_great_app",
+    "version": "1.0.1.2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
